@@ -1,0 +1,20 @@
+# Exclude Visual Studio temporary files and folders
+.vs/
+*.suo
+*.user
+*.ipch
+*.log
+*.obj
+*.pch
+*.tmp
+*.idb
+*.tlog
+*.lastbuildstate
+
+# Exclude build directories
+Debug/
+Release/
+
+# Exclude system files
+Thumbs.db
+*.DS_Store
